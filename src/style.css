@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    
     background: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
